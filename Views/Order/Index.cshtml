@@ -1,0 +1,29 @@
+﻿@model IEnumerable<CustomerProductOrderApp.Models.Order>
+
+@{
+    ViewData["Title"] = "Order List";
+}
+
+<h2 class="mb-4">Order List</h2>
+<a asp-action="Create" class="btn btn-primary mb-3">Place New Order</a>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Person Name</th>
+            <th>Product Name</th>
+            <th>Order Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.Name</td>
+                <td>@order.ProductName</td>
+                <td>@order.OrderDate.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

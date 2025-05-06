@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|c:\\users\\lab_services_student\\source\\repos\\customerproductorderapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|c:\\users\\lab_services_student\\source\\repos\\customerproductorderapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Migrations\\20241110142651_dsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Migrations\\20241110092443_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Migrations\\20241111062603_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E88629-B6F3-4ACC-B71B-4E6BE3382577}|CustomerProductOrderApp.csproj|solutionrelative:Migrations\\20241111062603_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:59:14.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:51:13.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Views\\Order\\Create.cshtml",
+              "ViewState": "AQIAAAwAAADAMzMzMzMbwB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T14:25:12.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T14:25:28.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T06:33:21.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T06:33:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
+              "ViewState": "AQIAABMAAACAAQAAAAABwC4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:54:59.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:58:04.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:58:51.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:57:01.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:07:01.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAABkAAABAzczMzGwwwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:02:19.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAABgAAADQzMzMzAw3wCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:15:03.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAANDMzMzMZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:30:27.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T05:14:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:46:04.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAF0AAAAAOjMzMzPvvwMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:36:01.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241111062603_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Migrations\\20241111062603_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241111062603_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Migrations\\20241111062603_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241111062603_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:26:03.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:35:40.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:24:55.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T10:01:14.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:22:58.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241110142651_dsd.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Migrations\\20241110142651_dsd.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Migrations\\20241110142651_dsd.cs",
+              "ToolTip": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Migrations\\20241110142651_dsd.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Migrations\\20241110142651_dsd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:26:51.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:07:56.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CustomerProductOrderApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T10:03:17.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241110092443_first.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Migrations\\20241110092443_first.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Migrations\\20241110092443_first.cs",
+              "ToolTip": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Migrations\\20241110092443_first.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Migrations\\20241110092443_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:24:43.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\moham\\Downloads\\CustomerProductOrderApp\\CustomerProductOrderApp\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:12:19.49Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 774,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

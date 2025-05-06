@@ -1,0 +1,35 @@
+﻿@model IEnumerable<CustomerProductOrderApp.Models.Customer>
+
+<h2>Customer List</h2>
+<a asp-action="Create" class="btn btn-primary">Add New Customer</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var customer in Model)
+            {
+                <tr>
+                    <td>@customer.Name</td>
+                    <td>@customer.Email</td>
+                    <td>@customer.Phone</td>
+                    <td>@customer.Address</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No customers available.</td>
+            </tr>
+        }
+    </tbody>
+</table>

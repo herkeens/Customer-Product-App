@@ -1,0 +1,36 @@
+﻿@model CustomerProductOrderApp.Models.Order
+
+@{
+    ViewData["Title"] = "Place Order";
+}
+
+<h2 class="mb-4">Place Order</h2>
+
+<form asp-action="Create" method="post" class="form-horizontal">
+    <div class="form-group row">
+        <label asp-for="Name" class="col-sm-2 col-form-label">Person Name</label>
+        <div class="col-sm-10">
+            <input asp-for="Name" type="text" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="ProductName" class="col-sm-2 col-form-label">Product Name</label>
+        <div class="col-sm-10">
+            <input asp-for="ProductName" type="text" class="form-control" />
+            <span asp-validation-for="ProductName" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="OrderDate" class="col-sm-2 col-form-label">Order Date</label>
+        <div class="col-sm-10">
+            <input asp-for="OrderDate" type="date" class="form-control" />
+            <span asp-validation-for="OrderDate" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-10 offset-sm-2">
+            <button type="submit" class="btn btn-primary">Place Order</button>
+        </div>
+    </div>
+</form>

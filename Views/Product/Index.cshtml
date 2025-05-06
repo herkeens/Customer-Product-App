@@ -1,0 +1,27 @@
+﻿@model IEnumerable<CustomerProductOrderApp.Models.Product>
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h2>Product List</h2>
+<a asp-action="Create" class="btn btn-primary">Add New Product</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductName</td>
+                <td>R @product.Price.ToString("N2")</td>
+                <td>@product.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>
